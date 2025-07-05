@@ -21,7 +21,7 @@ Visualize how often you get Heads vs Tails
 
 Plot how the proportion of Heads and Tails gets closer to 50% as the number of tosses increases
 
-###2️⃣ Dice Roll Simulation
+### 2️⃣ Dice Roll Simulation
 
 Roll a fair six-sided die multiple times (10, 100, 1,000, 10,000, 100,000 rolls)
 
